@@ -1,0 +1,22 @@
+
+EcryptFS Linux Folder Encryption
+
+
+https://jnet.forumotion.com/t2161-ecryptfs-linux-folder-encryption?highlight=linux+fm+cli
+
+
+
+
+sudo chmod +x  *.sh
+
+
+
+./crypt.sh
+
+
+
+
+
+
+
+
